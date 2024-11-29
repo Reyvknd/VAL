@@ -1,11 +1,11 @@
-global.owner = ['62895331520602']  
-global.mods = ['62895331520602'] 
-global.prems = ['62895331520602']
-global.nameowner = 'Tio'
-global.numberowner = '62895331520602' 
-global.mail = 'support@tioprm.eu.org' 
+global.owner = ['6281370424713','6287758377324','62895415535748']  
+global.mods = ['6281370424713','6287758377324','62895415535748'] 
+global.prems = ['6281370424713','6287758377324','62895415535748']
+global.nameowner = 'Ji'
+global.numberowner = '62895415535748' 
+global.mail = 'support@tiorm.eu.org' 
 global.gc = 'https://chat.whatsapp.com/CP5mV2D9IO730HpBgmkuyi'
-global.instagram = 'https://instagram.com/prm2.0'
+global.instagram = 'https://instagram.com/reyvknd'
 global.wm = '© Tio'
 global.wait = '_*Tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -17,11 +17,11 @@ global.maxwarn = '3' // Peringatan maksimum
 global.antiporn = true // Auto delete pesan porno (bot harus admin)
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'uhZbaien' 
 //Daftar terlebih dahulu https://api.botcahx.eu.org
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = '2hotvumq'
 //Daftar https://api.betabotz.eu.org 
 
 //jangan diganti!
