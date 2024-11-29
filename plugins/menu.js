@@ -51,16 +51,7 @@ const allTags = {
 
 const defaultMenu = {
     before: `
-Hi %name
-I am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.
-
-◦ *Library:* Baileys
-◦ *Function:* Assistant
-
-┌  ◦ Uptime : %uptime
-│  ◦ Tanggal : %date
-│  ◦ Waktu : %time
-└  ◦ Prefix Used : *[ %p ]*
+Hi %name I AM *BEE GUARD*
 `.trimStart(),
     header: '┌  ◦ *%category*',
     body: '│  ◦ %cmd %islimit %isPremium',
@@ -208,8 +199,8 @@ let handler = async (m, { conn, usedPrefix: _p, args = [], command }) => {
                         mediaType: 1,
                         previewType: 0,
                         renderLargerThumbnail: true,
-                        thumbnailUrl: 'https://telegra.ph/file/3a34bfa58714bdef500d9.jpg',
-                        sourceUrl: 'https://whatsapp.com/channel/0029Va8ZH8fFXUuc69TGVw1q'
+                        thumbnailUrl: 'https://pomf2.lain.la/f/w2rfl0zj.jpg',
+                        sourceUrl: 'https://chat.whatsapp.com/JlgD3Y0aiR0LDyoXMhaGOV'
                     }
                 }, 
                 mentions: [m.sender]
